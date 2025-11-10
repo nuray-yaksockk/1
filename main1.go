@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	number := -7
+	number := 5
 
 	fmt.Printf("Проверяем число: %d\n", number)
 
